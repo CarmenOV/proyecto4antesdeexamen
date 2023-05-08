@@ -1,3 +1,6 @@
 class carrito {
 	float total;
-	id nombre;}
+	id nombre;
+	carrito(long id ){
+this.id=id;}
+}
